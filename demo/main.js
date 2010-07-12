@@ -1,4 +1,6 @@
 var Wiky = require('wiky/wiky')
+require('wiky/wiky-lang')
+require('wiky/wiky-math')
 
 global.output = {
    menu: "outmnu",
