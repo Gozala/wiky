@@ -1,0 +1,37 @@
+{
+    "name": "wiky",
+    "description": "A Bidirectional WikiText Markup Converter.",
+    "version": "0.95",
+    "keywords": ["wiki", "wikitext", "html", "converter"],
+    "maintainers": [
+        {
+            "name": "Irakli Gozalishvili",
+            "email": "rfobic@gmail.com",
+            "web": "http://jeditoolkit.com/"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Stefan Goessner",
+            "web": "http://goessner.net/"
+        },
+        {
+            "name": "Irakli Gozalishvili",
+            "email": "rfobic@gmail.com",
+            "web": "http://jeditoolkit.com/"
+        }
+    ],
+    "bugs": { "web": "http://github.com/Gozala/github/issues/" },
+    "licenses": [
+        { "type": "LGPL" }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/Gozala/wiky.git"
+        }
+    ],
+    "directories": {
+        "lib": "lib"
+    }
+}
